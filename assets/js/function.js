@@ -10,7 +10,7 @@ LEIHAUOLI.COMMON.TEST = {
     console.log('ばーか');
 	},
 	bindEvent : function(){
-
+    console.log(q'aghjas;lkgjasd;glkj);
 	}
 }
 
